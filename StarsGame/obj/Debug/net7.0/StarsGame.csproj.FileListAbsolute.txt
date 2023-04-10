@@ -1,0 +1,15 @@
+C:\Users\mathe\Documents\StarsGame\StarsGame\bin\Debug\net7.0\StarsGame.exe
+C:\Users\mathe\Documents\StarsGame\StarsGame\bin\Debug\net7.0\StarsGame.deps.json
+C:\Users\mathe\Documents\StarsGame\StarsGame\bin\Debug\net7.0\StarsGame.runtimeconfig.json
+C:\Users\mathe\Documents\StarsGame\StarsGame\bin\Debug\net7.0\StarsGame.dll
+C:\Users\mathe\Documents\StarsGame\StarsGame\bin\Debug\net7.0\StarsGame.pdb
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.AssemblyInfo.cs
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.dll
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\refint\StarsGame.dll
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.pdb
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\StarsGame.genruntimeconfig.cache
+C:\Users\mathe\Documents\StarsGame\StarsGame\obj\Debug\net7.0\ref\StarsGame.dll
